@@ -26,3 +26,8 @@ build-*
 # QtCreator
 
 *.autosave
+
+/QSanSMTPClientPasswordGetter/main.cpp
+
+*.sdf
+*.suo

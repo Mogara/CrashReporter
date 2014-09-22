@@ -2,6 +2,11 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <string>
+
+namespace PasswordGetter {
+    extern std::string getPassword();
+}
 
 QString getSystemVersion();
 
